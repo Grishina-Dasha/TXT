@@ -1,0 +1,5 @@
+Name: Grishina Daria
+Age: 24
+Pets: 0
+Salary: 1000
+
